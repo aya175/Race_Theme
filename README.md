@@ -97,7 +97,7 @@ Your mission is to build a **turn-based race simulator** using **Object-Oriented
 
 ```bash
 git clone https://github.com/aya175/Race_Theme.git
-cd F1-Python-Challenges
+cd Race_Theme
 ```
 
 2. Install dependencies:
